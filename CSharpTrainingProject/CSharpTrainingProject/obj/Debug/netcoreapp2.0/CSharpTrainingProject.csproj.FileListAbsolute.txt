@@ -1,0 +1,11 @@
+C:\Users\littlema\source\repos\CSharpTrainingProject\CSharpTrainingProject\obj\Debug\netcoreapp2.0\CSharpTrainingProject.csprojResolveAssemblyReference.cache
+C:\Users\littlema\source\repos\CSharpTrainingProject\CSharpTrainingProject\obj\Debug\netcoreapp2.0\CSharpTrainingProject.csproj.CoreCompileInputs.cache
+C:\Users\littlema\source\repos\CSharpTrainingProject\CSharpTrainingProject\obj\Debug\netcoreapp2.0\CSharpTrainingProject.AssemblyInfoInputs.cache
+C:\Users\littlema\source\repos\CSharpTrainingProject\CSharpTrainingProject\obj\Debug\netcoreapp2.0\CSharpTrainingProject.AssemblyInfo.cs
+C:\Users\littlema\source\repos\CSharpTrainingProject\CSharpTrainingProject\bin\Debug\netcoreapp2.0\CSharpTrainingProject.deps.json
+C:\Users\littlema\source\repos\CSharpTrainingProject\CSharpTrainingProject\bin\Debug\netcoreapp2.0\CSharpTrainingProject.runtimeconfig.json
+C:\Users\littlema\source\repos\CSharpTrainingProject\CSharpTrainingProject\bin\Debug\netcoreapp2.0\CSharpTrainingProject.runtimeconfig.dev.json
+C:\Users\littlema\source\repos\CSharpTrainingProject\CSharpTrainingProject\bin\Debug\netcoreapp2.0\CSharpTrainingProject.dll
+C:\Users\littlema\source\repos\CSharpTrainingProject\CSharpTrainingProject\bin\Debug\netcoreapp2.0\CSharpTrainingProject.pdb
+C:\Users\littlema\source\repos\CSharpTrainingProject\CSharpTrainingProject\obj\Debug\netcoreapp2.0\CSharpTrainingProject.dll
+C:\Users\littlema\source\repos\CSharpTrainingProject\CSharpTrainingProject\obj\Debug\netcoreapp2.0\CSharpTrainingProject.pdb

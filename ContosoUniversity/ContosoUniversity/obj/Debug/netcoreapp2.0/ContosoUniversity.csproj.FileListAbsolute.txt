@@ -1,0 +1,11 @@
+K:\NRL\Systems\Project\littlema\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.deps.json
+K:\NRL\Systems\Project\littlema\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.json
+K:\NRL\Systems\Project\littlema\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.dev.json
+K:\NRL\Systems\Project\littlema\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.dll
+K:\NRL\Systems\Project\littlema\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.pdb
+K:\NRL\Systems\Project\littlema\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+K:\NRL\Systems\Project\littlema\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfoInputs.cache
+K:\NRL\Systems\Project\littlema\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
+K:\NRL\Systems\Project\littlema\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.dll
+K:\NRL\Systems\Project\littlema\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.pdb
+K:\NRL\Systems\Project\littlema\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csprojAssemblyReference.cache

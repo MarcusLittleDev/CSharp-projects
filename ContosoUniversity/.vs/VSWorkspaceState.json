@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ContosoUniversity",
+    "\\ContosoUniversity\\Controllers",
+    "\\ContosoUniversity\\Models",
+    "\\ContosoUniversity\\Views",
+    "\\ContosoUniversity\\Views\\Students"
+  ],
+  "SelectedNode": "\\ContosoUniversity\\ContosoUniversity.csproj",
+  "PreviewInSolutionExplorer": false
+}

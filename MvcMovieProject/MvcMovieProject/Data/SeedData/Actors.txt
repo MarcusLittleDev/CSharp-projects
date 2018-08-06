@@ -1,0 +1,58 @@
+Name|BirthDate|HomeTown|BirthName
+Al Pacino|1940-04-25|"New York City, New York"|Alfredo James Pacino
+Angie Dickinson|1931-09-30|"Kulm, North Dakota"|Angeline Brown
+Anthony Edwards|1962-07-16|"Santa Barbara, California"|Anthony Charles Edwards
+Beverly D'Angelo|1951-11-15|"Columbus, Ohio"|Beverly Heather D'Angelo
+Bill Murray|1950-09-21|"Wilmette, Illinois"|William James Murray
+Bill Paxton|1955-05-17|"Fort Worth, Texas"|William Paxton
+Billy Crystal|1948-03-14|"New York City, New York"|William Edward Crystal
+Bruno Kirby|1949-04-28|"New York City, New York"|Bruno Giovanni Quidaciolu Jr.
+Bryan Brown|1947-07-23|"Sydney, Australia"|Bryan Neathaway Brown
+Carrie Fisher|1956-10-21|"Los Angeles, California"|Carrie Frances Fisher
+Chevy Chase|1943-10-08|"New York City, New York"|Cornelius Crane Chase
+Cuba Gooding Jr.|1968-01-02|"The Bronx, New York"|Cuba M. Gooding Jr.
+Dan Aykroyd|1952-07-01|"Ottawa, Ontario, Canada"|Daniel Edward Akrord
+Dana Delaney|1956-03-13|"New York City, New York"|Dana Welles Delany
+David Oyelowo|1976-04-01|"Oxford, England, UK"
+David Suchet|1946-05-02|"Paddington, London, England, UK"|David C. Suchet
+Dean Martin|1917-06-07|"Steubenville, Ohio, USA"|Dino Paul Crocetti
+Demi Moore|1962-11-11|"Roswell, New Mexico, USA"|Demi Gene Guynes
+Elisabeth Shue|1963-10-06|"Wilmington, Delaware, USA"|Elisabeth Judson Shue
+Gabriel Jarret|1970-01-01|"Los Angeles, California, USA"|Gabriel Kronsberg
+Gene Hackman|1930-01-30|"San Bernardino, California, USA"|Eugene Allen Hackman
+Hal Holbrook|1925-02-17|"Cleveland, Ohio, USA"|Harold Rowe Holbrook Jr.
+Harold Ramis|1944-11-21|"Chicago, Illinois, USA"|Harold Allen Ramis
+Jack Nicholson|1937-04-22|"Neptune, New Jersey, USA"|John Joseph Nicholson
+Jada Pinkett Smith|1971-09-18|"Baltimore, Maryland, USA"|Jada Koren Pinkett
+James Spader|1960-02-07|"Boston, Massachusetts, USA"|James Todd Spader
+Jamie Foxx|1967-12-13|"Terrell, Texas, USA"|Eric Marlon Bishop
+Jason Gedrick|1965-02-07|"Chicago, Illinois, USA"|Jason Michael Gedroic
+Jaye Davidson|1968-03-21|"Riverside, California, USA"|Alfred Amey
+Jeanne Tripplehorn|1963-06-10|"Tulsa, Oklahoma, USA"|Jeanne Marie Tripplehorn
+John Wayne|1907-05-26|"Winterset, Iowa, USA"|Marion Robert Morrison
+Johnny Galecki|1975-04-30|"Bree, Flanders, Belgium"|John Mark Galecki
+Jon Voight|1938-12-29|"Yonkers, New York, USA"|Jonathan Vincent Voight
+Juliette Lewis|1973-06-21|"Los Angeles, California, USA"|Juliette Lewis
+Kelly McGillis|1957-07-09|"Newport Beach, California, USA"|Kelly Ann McGillis
+Kelly Preston|1962-10-13|"Honolulu, Hawaii, USA"|Kelly Kamalelehua Palzis
+Kevin Bacon|1958-07-08|"Philadelphia, Pennsylvania, USA"|Kevin Norwood Bacon
+Kurt Russell|1951-03-17|"Springfield, Massachusetts, USA"|Kurt Vogel Russell
+Larry B. Scott|1961-08-17|"New York City, New York, USA"|Larry B. Scott
+Lisa Banes|1955-07-09|"Chagrin Falls, Ohio, USA"|Lisa Banes
+Louis Gossett Jr.|1936-05-27|"Brooklyn, New York City, New York, USA"|Louis Cameron Gossett Jr.
+Mark Ruffalo|1967-11-22|"Kenosha, Wisconsin, USA"|Mark Alan Ruffalo
+Meg Ryan|1961-11-19|"Fairfield, Connecticut, USA"|Margaret Mary Emily Anne Hyra
+Michael Biehn|1956-07-31|" Anniston, Alabama"|Michael Connell Biehn
+Michelle Meyrink|1962-09-01|"Vancouver, British Columbia, Canada"|Michelle Meyrink
+Powers Boothe|1948-06-01|"Snyder, Texas, USA"|Powers Allen Boothe
+Renee Zellweger|1969-04-25|"Katy, Texas, USA"|Renee Kathleen Zellweger
+Richard Jenkins|1947-05-04|"DeKalb, Illinois, USA"|Richard Jenkins
+Ricky Nelson|1940-05-08|"Teaneck, New Jersey, USA"|Eric Hilliard Nelson
+Robert De Niro|1943-08-17|"New York City, New York, USA"|Robert Anthony De Niro Jr.
+Rosamund Pike|1979-01-27|"Hammersmith, London, England, UK"|Rosamund Mary Elizabeth Pike
+Sam Elliot|1944-08-09|"Sacramento, California, USA"| Samuel Pack Elliot
+Sigourney Weaver|1949-10-08|"Manhattan, New York City, New York, USA"|Susan Alexandra Weaver
+Tom Cruise|1962-07-03|"Syracuse, NY"|Thomas Cruise Mapother IV
+Val Kilmer|1959-12-31|" Los Angeles, California"| Val Edward Kilmer
+Viveca Lindfors|1920-12-29|"Uppsala, Uppsala lan, Sweden"|Elsa Viveca Torstensdotter Lindfors
+William Atherton|1947-07-30|"Orange, Connecticut, USA"|William Atherton Knight

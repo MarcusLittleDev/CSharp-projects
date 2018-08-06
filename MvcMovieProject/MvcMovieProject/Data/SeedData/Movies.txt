@@ -1,0 +1,19 @@
+Title|ReleaseDate|Genre|Price|Rating|Image
+Tombstone|1993-12-25|Western|9.99|R|https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3NzYwMjAyNV5BMl5BanBnXkFtZTgwMjk0NzQxMTE@._V1_SX300.jpg
+When Harry Met Sally...|1989-1-11|Romantic Comedy|7.99|R|https://images-na.ssl-images-amazon.com/images/M/MV5BMjE0ODEwNjM2NF5BMl5BanBnXkFtZTcwMjU2Mzg3NA@@._V1_SX300.jpg
+Ghostbusters|1984-3-13|Comedy|4.99|PG|https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMjYyNzgwMl5BMl5BanBnXkFtZTgwMTE3MjYyMTE@._V1_SX300.jpg
+Ghostbusters II|1986-2-23|Comedy|4.99|PG|"https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2NTk4MjE5Ml5BMl5BanBnXkFtZTgwODIwNjYxMTE@._V1_SY132_CR0,0,89,132_AL_.jpg"
+Rio Bravo|1959-4-15|Western|7.99|NR|https://images-na.ssl-images-amazon.com/images/M/MV5BZDVhMTk1NjUtYjc0OS00OTE1LTk1NTYtYWMzMDI5OTlmYzU2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg
+Top Gun|1986-05-06|Action|9.99|PG|https://images-na.ssl-images-amazon.com/images/M/MV5BZjQxYTA3ODItNzgxMy00N2Y2LWJlZGMtMTRlM2JkZjI1ZDhhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg
+Iron Eagle|1986-01-17|Action|7.99|PG-13|https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5NzE4OTI0N15BMl5BanBnXkFtZTcwMjIwNDAzMQ@@._V1_SX300.jpg
+Stargate|1994-10-28|Sci-Fi|8.99|PG-13|https://images-na.ssl-images-amazon.com/images/M/MV5BYzQzOTk2OTUtZDE4Yy00Mzk0LWJkNTEtZjBhMTRmMjk1MmYwXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg
+Real Genius|1985-8-07|Comedy|5.99|PG|https://images-na.ssl-images-amazon.com/images/M/MV5BNTQ5MzU3ODg0OF5BMl5BanBnXkFtZTgwODM0MzQxMDE@._V1_SX300.jpg
+National Lampoon's Christmas Vacation|1989-12-01|Comedy|12.99|PG-13|https://images-na.ssl-images-amazon.com/images/M/MV5BMGZkMWQ2MzMtYTkxYS00OThmLWI0ZTQtNmY0ZTkyY2E4MjliXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg
+Heat|1995-12-15|Action|7.99|R|https://images-na.ssl-images-amazon.com/images/M/MV5BNGMwNzUwNjYtZWM5NS00YzMyLWI4NjAtNjM0ZDBiMzE1YWExXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg
+Jerry Maguire|1996-12-13|Romantic Comedy|6.99|R|https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxNjc2NjQwOF5BMl5BanBnXkFtZTcwMDE2NDU2MQ@@._V1_SX300.jpg
+A Few Good Men|1992-12-11|Drama|8.99|R|https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzNzE3Njg4Ml5BMl5BanBnXkFtZTYwMjA4NzM5._V1_SX300.jpg
+Jack Reacher|2012-12-21|Action|4.99|PG-13|https://images-na.ssl-images-amazon.com/images/M/MV5BMTM1NjUxMDI3OV5BMl5BanBnXkFtZTcwNjg1ODM3OA@@._V1_SX300.jpg
+Collateral|2004-08-06|Action|8.99|R|https://images-na.ssl-images-amazon.com/images/M/MV5BMjE3NjM5OTMxMV5BMl5BanBnXkFtZTcwOTIzMTQyMw@@._V1_SX300.jpg
+The Firm|1993-06-30|Drama|4.99|R|https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxMjM5NDYwM15BMl5BanBnXkFtZTgwODkzMzk5MDE@._V1_SX300.jpg
+Rain Man|1988-12-16|Drama|4.99|R|https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4NTA1NDU3NV5BMl5BanBnXkFtZTcwODUwMTU2NA@@._V1_SX300.jpg
+Cocktail|1988-07-29|Drama|4.99|R|https://images-na.ssl-images-amazon.com/images/M/MV5BZDBhYTdkYzMtYTE5Yi00ZDg1LThiYmYtZDI3ZTA5NjVkZWY2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg

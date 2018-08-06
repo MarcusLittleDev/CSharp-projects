@@ -1,0 +1,73 @@
+Actor|Character|Movie
+Al Pacino|Lt. Vincent Hanna|Heat
+Angie Dickinson|Feathers|Rio Bravo
+Anthony Edwards|Goose|Top Gun
+Beverly D'Angelo|Ellen Griswold|National Lampoon's Christmas Vacation
+Bill Murray|Dr. Peter Venkman|Ghostbusters
+Bill Murray|Dr. Peter Venkman|Ghostbusters II
+Bill Paxton|Morgan Earp|Tombstone
+Billy Crystal|Harry Burns|When Harry Met Sally...
+Bruno Kirby|Jess|When Harry Met Sally...
+Bryan Brown|Doug Coughlin|Cocktail
+Carrie Fisher|Marie|When Harry Met Sally...
+Chevy Chase|Clark Griswold|National Lampoon's Christmas Vacation
+Cuba Gooding Jr.|Cpl. Carl Hammaker|A Few Good Men
+Cuba Gooding Jr.|Rod Tidwell|Jerry Maguire
+Dan Aykroyd|Dr. Raymond Stantz|Ghostbusters
+Dan Aykroyd|Dr. Raymond Stantz|Ghostbusters II
+Dana Delaney|Josephine Marcus|Tombstone
+David Oyelowo|Emerson|Jack Reacher
+David Suchet|Minister of Defense Col. Akir Nakesh|Iron Eagle
+Dean Martin|Dude|Rio Bravo
+Demi Moore|Lt. Cdr. Joane Galloway|A Few Good Men
+Elisabeth Shue|Jordan Mooney|Cocktail
+Gabriel Jarret|Mitch Taylor|Real Genius
+Gene Hackman|Avery Tolar|The Firm
+Hal Holbrook|Oliver Lambert|The Firm
+Harold Ramis|Dr. Egon Spengler|Ghostbusters
+Harold Ramis|Dr. Egon Spengler|Ghostbusters II
+Jack Nicholson|Col. Nathan R. Jessup|A Few Good Men
+Jada Pinkett Smith|Annit|Collateral
+James Spader|Dr. Daniel Jackson|Stargate
+Jamie Foxx|Max|Collateral
+Jason Gedrick|Doug Masters|Iron Eagle
+Jaye Davidson|Ra|Stargate
+Jeanne Tripplehorn|Abby McDeere|The Firm
+John Wayne|Sheriff John T. Chance|Rio Bravo
+Johnny Galecki|Rusty|National Lampoon's Christmas Vacation
+Jon Voight|Nate|Heat
+Juliette Lewis|Audrey|National Lampoon's Christmas Vacation
+Kelly McGillis|Charlie|Top Gun
+Kelly Preston|Avery Bishop|Jerry Maguire
+Kevin Bacon|Captain Jack Ross|A Few Good Men
+Kurt Russell|Wyatt Earp|Tombstone
+Kurt Russell|Colonel Jonathan 'Jack' O'Neil|Stargate
+Larry B. Scott|Reggie|Iron Eagle
+Lisa Banes|Bonnie|Cocktail
+Louis Gossett Jr.|Charles 'Chappy' Sinclair|Iron Eagle
+Mark Ruffalo|Fanning|Collateral
+Meg Ryan|Sally Albright|When Harry Met Sally...
+Michael Biehn|Johnny Ringo|Tombstone
+Michelle Meyrink|Jordan|Real Genius
+Powers Boothe|Curly Bill Brocius|Tombstone
+Renee Zellweger|Dorothy Boyd|Jerry Maguire
+Richard Jenkins|Rodin|Jack Reacher
+Ricky Nelson|Colorado Ryan|Rio Bravo
+Robert De Niro|Neil McCauley|Heat
+Rosamund Pike|Helen|Jack Reacher
+Sam Elliot|Virgil Earp|Tombstone
+Sigourney Weaver|Rebecca Gorin|Ghostbusters
+Tom Cruise|Jack Reacher|Jack Reacher
+Tom Cruise|Mitch McDeere|The Firm
+Tom Cruise|Vincent|Collateral
+Tom Cruise|Maverick|Top Gun
+Tom Cruise|Lt. Daniel Kaffee|A Few Good Men
+Tom Cruise|Jerry Maguire|Jerry Maguire
+Tom Cruise|Charlie Babbitt|Rain Man
+Tom Cruise|Brian Flanagan|Cocktail
+Val Kilmer|Doc Holliday|Tombstone
+Val Kilmer|Iceman|Top Gun
+Val Kilmer|Chris Knight|Real Genius
+Viveca Lindfors|Catherine Langford|Stargate
+William Atherton|Walter Peck|Ghostbusters
+William Atherton|Prof. Jerry Hathaway|Real Genius

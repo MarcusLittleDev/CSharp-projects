@@ -1,0 +1,74 @@
+﻿@model MvcMovieProject.Models.MovieViewModels.ActorIndexViewData
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>@Html.DisplayFor(model =>model.Actor.Name)</h4>
+    <hr />
+   
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Actor.Name)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Actor.Name)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Actor.BirthName)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Actor.BirthName)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Actor.BirthDate)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Actor.BirthDate)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Actor.HomeTown)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Actor.HomeTown)
+            </dd>
+        </dl>
+    
+    
+        <table class="table">
+            <tr>
+                <th>Movies</th>
+                <th>Character</th>
+            </tr>
+            @if (Model.Movies != null)
+            {
+                foreach(var item in Model.Movies)
+                {
+                    <tr>
+                        <td>@item.Title</td>
+                        
+                    @foreach(var role in Model.MovieRoles)
+                    {
+                        if(role.MovieID == item.ID)
+                        {
+                            <td>@role.Character</td>
+
+                        }
+
+                    }
+                    </tr>
+
+                }
+
+            }
+        </table>
+   
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Actor.ActorID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
